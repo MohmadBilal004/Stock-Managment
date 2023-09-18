@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "563799422066",
+    "project_id": "lanka-trading-enterprise",
+    "storage_bucket": "lanka-trading-enterprise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563799422066:android:17bddf940261eedb4dfeeb",
+        "android_client_info": {
+          "package_name": "com.example.lanka_trading_enterprise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVvwBocziGVa3KY2KPUszGCS2OjDZk_Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563799422066:android:4b85a38b2202b47f4dfeeb",
+        "android_client_info": {
+          "package_name": "com.example.lankatradingenterprise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVvwBocziGVa3KY2KPUszGCS2OjDZk_Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563799422066:android:2289b37703de30a64dfeeb",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVvwBocziGVa3KY2KPUszGCS2OjDZk_Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
